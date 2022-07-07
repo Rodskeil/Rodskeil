@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React, React Native and Typescript (Estou estudando Reack, Reack native e Typescript)
 - 📫 How to reach me: rodolfokeil1993@gmail.com (meu contato: rodolfokeil1993@gmail.com)
 - 😄 Pronouns: He/Him (Pronomes: Ele/Dele)
-- ⚡ Fun fact: I found out this year that i love programming and so i am trying to change my carrer, so if you can, help me to find a job as a Jr Dev.( Eu descobri esse ano que sou apaixonado em programar e desenvolver, então estou tentando mudar de carreira, então se puder ajudar, me ajuda a encontroar um trabalho como Dev. Jr.)
+- ⚡ Fun fact: I found out this year (2020) that i love programming and so i am trying to change my carrer, so if you can, help me to find a job as a Jr Dev.( Eu descobri esse ano que sou apaixonado em programar e desenvolver, então estou tentando mudar de carreira, então se puder ajudar, me ajuda a encontroar um trabalho como Dev. Jr.)
 
 <div align="center">
   <a href="https://github.com/Rodskeil">
