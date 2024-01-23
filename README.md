@@ -1,10 +1,10 @@
 ### Hi there i am Rodolfo Keil(Olá, eu sou o Rodolfo Keil) 👋
 
-- 🔭 I’m currently working on other area (Hoje trabalho em outra area)
-- 🌱 I’m currently learning React, React Native and Typescript (Estou estudando Reack, Reack native e Typescript)
+- 🔭 I’m currently working with BI, SQL, Python development (Hoje trabalho com power BI, SQL e Python)
+- 🌱 I’m currently learning Python, SQL, Kotlin and frameworks (Estou estudando sobre Python, SQL, Kotlin e frameworks)
 - 📫 How to reach me: rodolfokeil1993@gmail.com (meu contato: rodolfokeil1993@gmail.com)
 - 😄 Pronouns: He/Him (Pronomes: Ele/Dele)
-- ⚡ Fun fact: I found out this year (2020) that i love programming and so i am trying to change my carrer, so if you can, help me to find a job as a Jr Dev.( Eu descobri esse ano que sou apaixonado em programar e desenvolver, então estou tentando mudar de carreira, então se puder ajudar, me ajuda a encontroar um trabalho como Dev. Jr.)
+- ⚡ Fun fact: I found out during the pandamic that i love programming and so i am trying to grow my knowledge for my carrer, so if you can, help me to find some courses that will unlock a lot of knowledge.( Eu descobri durante a pandemia que sou apaixonado em programar e desenvolver, então estou tentando crescer na carreira, então se puder ajudar, me ajuda a encontroar melhores cursos para melhorar o meu desenvolvimento)
 
 <div align="center">
   <a href="https://github.com/Rodskeil">
